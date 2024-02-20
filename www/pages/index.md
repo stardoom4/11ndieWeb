@@ -1,7 +1,7 @@
 ---
-title: 11ndieWeb
+title: Celestial Entity
 layout: layouts/page
-date: 2021-05-10T09:58:17-05:00
+date: 2024-02-20T09:58:17-05:00
 permalink: /
 ---
 
